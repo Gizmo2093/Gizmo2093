@@ -36,5 +36,5 @@ Here are some ideas to get you started:
    </a>
 </p>
 
-<br>
-<p>Gizmo2093@gmail.com</p>
+<separator />
+<p align="center">Gizmo2093@gmail.com</p>
