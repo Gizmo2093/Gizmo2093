@@ -1,4 +1,4 @@
-### Greeting 👋
+### Greetings 😄
 
 I’m FrontEnd Developer, have 1 year of commertial experience. I have a lot knowledge in frontend development. and practice
 improving my skills none stop.
