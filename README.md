@@ -24,8 +24,10 @@ Here are some ideas to get you started:
    <a href="https://github.com/Gizmo2093/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gizmo2093&layout=compact"/></a>
    
-   <a href="https://www.linkedin.com/in/vladimir-okolov-022aa2171/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
+   <p>
+      <a href="https://www.linkedin.com/in/vladimir-okolov-022aa2171/">
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+   </p>
 
 </p>
