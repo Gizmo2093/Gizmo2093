@@ -37,7 +37,4 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
    </a>
    
-   <a href="Gizmo2093@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-   </a>
 </p>
