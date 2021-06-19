@@ -1,6 +1,6 @@
 ### Greeting 👋
 
-I’m FrontEnd Developer, have 1 year of commertial experience. I have a lot knowledge in frontend development on JavaScript.
+I’m FrontEnd Developer, have 1 year of commertial experience. I have a lot knowledge in frontend development. and practice
 improving my skills none stop.
 
 <!--
@@ -34,5 +34,4 @@ Here are some ideas to get you started:
    <a href="https://vk.com/id56270654">
       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
    </a>
-   
 </p>
