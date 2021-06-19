@@ -24,6 +24,8 @@ Here are some ideas to get you started:
    </a>
 </p>
 
+<separator />
+
 <h3 align="center">My Contacts</h3>
 
 <p align="center">
@@ -40,5 +42,3 @@ Here are some ideas to get you started:
    </a>
 </p>
 
-<separator />
-<p align="center"><a href="mailto:Gizmo2093@gmail.com">Gizmo2093@gmail.com</a></p>
