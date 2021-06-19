@@ -1,6 +1,6 @@
 ### Greetings 🎉
 
-I’m FrontEnd Developer, have 1 year of commertial experience. I have a lot knowledge in frontend development. and practice
+I’m FrontEnd Developer, have 1 year of commertial experience. I have a lot knowledge in frontend development and practice.
 improving my skills none stop.
 
 <!--
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
    
-   <a href="https://vk.com/id56270654">
-      <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
+   <a href="https://www.facebook.com/vladimir.okolov.1">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
    </a>
    
    <a href="mailto:Gizmo2093@gmail.com">
