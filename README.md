@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    </a>
 </p>
 
-<br />
+<hr/>
 
 <h3 align="center">My Contacts</h3>
 
