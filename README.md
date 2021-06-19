@@ -34,6 +34,10 @@ Here are some ideas to get you started:
    <a href="https://vk.com/id56270654">
       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
    </a>
+   
+   <a href="mailto:Gizmo2093@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
 </p>
 
 <separator />
