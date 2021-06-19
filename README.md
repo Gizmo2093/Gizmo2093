@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 </p>
 
 <separator />
-<p align="center"><a>Gizmo2093@gmail.com</a></p>
+<p align="center"><a href="mailto:Gizmo2093@gmail.com">Gizmo2093@gmail.com</a></p>
