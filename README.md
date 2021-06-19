@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr/>
+
 <p align='center'>
    <a href="https://github.com/Gizmo2093/github-readme-stats">
       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gizmo2093&layout=compact"/>
