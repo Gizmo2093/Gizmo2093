@@ -1,7 +1,7 @@
 ### Greetings 🎉
 
 I’m FrontEnd Developer, have 1 year of commertial experience. I have a lot knowledge in frontend development and practice.
-improving my skills none stop.
+Improving my skills none stop.
 
 <!--
 **Gizmo2093/Gizmo2093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
