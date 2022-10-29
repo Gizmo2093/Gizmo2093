@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladimir Okolov</h1>
 <h3 align="center">A passionate fullstack developer from Russia</h3>
-<img align"middle" alt="coding" width="600" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif">
+<img align"middle" alt="coding" width="250" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif">
 
 - 🔭 I’m currently working in **АО ГСК Югория**
 
