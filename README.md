@@ -20,5 +20,5 @@
 
 <p align="middle">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gizmo2093&" alt="gizmo2093" />
->&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gizmo2093&show_icons=true&locale=en" alt="gizmo2093" />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gizmo2093&show_icons=true&locale=en" alt="gizmo2093" />
 </p>
